@@ -11,12 +11,16 @@ html {
     text-align: center;
     color: #1d3557;
     background-color: #a8dadc;
+    width: auto;
+    height: auto;
+    line-height: 50px;
   }
   
   h1 {
-      display: flex;
-      justify-content: center;
       padding: 20px;
+      margin-top: 0;
+      width: auto;
+      height: auto;
   }
 
   h2 {
