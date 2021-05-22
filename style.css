@@ -14,6 +14,7 @@ html {
     width: auto;
     height: auto;
     line-height: 50px;
+    border-radius: 11px;
   }
   
   h1 {
@@ -60,7 +61,8 @@ html {
 
   #footer {
       text-align: center;
-    background-color: #a8dadc; 
+    background-color: #a8dadc;
+    border-radius: 11px;
   }
 
   #bio {
