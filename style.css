@@ -31,7 +31,7 @@ html {
   
   h3 {
     font-size: larger;
-    text-align: center;
+    text-align: left;
   }
 
   img {
@@ -50,9 +50,6 @@ html {
     text-align: center;
     padding: 5px;
     font-size: 15px;
-  }
-  li {
-    padding: 15px;
   }
   
   #tribute-link {
