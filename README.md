@@ -1,1 +1,3 @@
 # Tribute
+
+Simple tribute page.
